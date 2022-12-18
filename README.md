@@ -1,2 +1,2 @@
 # Reward_Simulation
-Full set: data collection, cleaning, analyses, findings
+Full set: data collection (task), cleaning, analyses, findings
