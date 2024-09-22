@@ -1,4 +1,4 @@
-# Reward_Simulation
+# Reward-Simulation-in-OFC
 Full set: data collection (task), cleaning, analyses, findings. 
 
 This repo contains code contributed to the following peer-reviewed neuroscience publication:
